@@ -1,4 +1,4 @@
-<center><img src="logo.png"alt="packscan_logo"/></center>
+<center><img src="logo.png"alt="packscan_logo" height="100px" width="auto"/></center>
 
 # PackScan Bharat SIH Team
 ## 1.Shreya Gujar.
