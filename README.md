@@ -7,3 +7,9 @@
 ## 4.Vinanti Vadar.
 ## 5.Srushti Patil.
 ## 6. Harshad Teli.
+
+<hr>
+
+## Workflow Version V1.0
+
+<center><img src="workflowv1.png"alt="workflow version v1"/></center>
